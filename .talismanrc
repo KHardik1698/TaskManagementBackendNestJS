@@ -1,6 +1,8 @@
 fileignoreconfig:
 - filename: package-lock.json
-  checksum: 5888e65d109a9ffdb9609d2a4de2e1c7b0c9c8c2681c36cc11098b545101137d
+  checksum: 4c471e54edc90ed8528b2e82ef73f392c40d8de395963bb88edc86361596370c
+- filename: package.json
+  checksum: ee4108e7d842845b7efb844ddec5f261fb71dac4cc417bedfb93bd043c8a8fe6
 - filename: src/app.module.ts
   checksum: fa095229ebbf9420d4c69fb7cc0ffd1cc2eb8784a531c7f8ae184095b63d1fb6
 - filename: src/auth/auth.service.ts
