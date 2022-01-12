@@ -3,6 +3,8 @@ fileignoreconfig:
   checksum: 5888e65d109a9ffdb9609d2a4de2e1c7b0c9c8c2681c36cc11098b545101137d
 - filename: src/app.module.ts
   checksum: fa095229ebbf9420d4c69fb7cc0ffd1cc2eb8784a531c7f8ae184095b63d1fb6
+- filename: src/auth/auth.service.ts
+  checksum: 1d663461545a07c24c3db7edd4c4bbcb315be14f3e4a7c947dd81898bb066a1f
 - filename: src/auth/users.repository.ts
   checksum: 3102761f8a43a2fc73727ee9d8bfc76fff97cbf24a22225977da7433d2693ba5
 version: "1.0"
