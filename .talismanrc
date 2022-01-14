@@ -6,7 +6,7 @@ fileignoreconfig:
 - filename: package.json
   checksum: 805dff46e22ab509f06e9957bfa2b239f8bb7b6f7c6b41059a980771e738d17a
 - filename: src/app.module.ts
-  checksum: fa095229ebbf9420d4c69fb7cc0ffd1cc2eb8784a531c7f8ae184095b63d1fb6
+  checksum: a01af65410d647651abee8a0f8b1ff428d5904a90aba7624f9a272b6fff09bfc
 - filename: src/auth/auth.module.ts
   checksum: d132efac6275bdf2fae24a61705efb824c3f996dfd9a8f5dbe792f8575775616
 - filename: src/auth/auth.service.ts
