@@ -1,4 +1,6 @@
 fileignoreconfig:
+- filename: .env.stage.dev
+  checksum: 299bbac266ef0abd2149a42283dcb7a0ff618f4cf6da487aca559556bb739014
 - filename: package-lock.json
   checksum: 9d967a64d90d7bef271d8bc08cbacb613370e10f4869f11041bb2aacac7d0a86
 - filename: package.json
