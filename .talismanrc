@@ -15,4 +15,6 @@ fileignoreconfig:
   checksum: e7b24f76ccf30b0f92b6171e1e85c842090c8dd046289f5fbc04e67e07eaf7da
 - filename: src/auth/users.repository.ts
   checksum: 3102761f8a43a2fc73727ee9d8bfc76fff97cbf24a22225977da7433d2693ba5
+- filename: src/config.schema.ts
+  checksum: 3ac15dad9033535173e4477006e665469d6783d939bf49f29e05dddb90ed4594
 version: "1.0"
