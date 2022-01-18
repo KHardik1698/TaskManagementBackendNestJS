@@ -12,7 +12,7 @@ fileignoreconfig:
 - filename: src/auth/auth.service.ts
   checksum: 1d663461545a07c24c3db7edd4c4bbcb315be14f3e4a7c947dd81898bb066a1f
 - filename: src/auth/jwt.strategy.ts
-  checksum: e7b24f76ccf30b0f92b6171e1e85c842090c8dd046289f5fbc04e67e07eaf7da
+  checksum: c38fa3555341085d2eeaa9889f06adc64e48b13e49afa25462fac7808ca5b66b
 - filename: src/auth/users.repository.ts
   checksum: 3102761f8a43a2fc73727ee9d8bfc76fff97cbf24a22225977da7433d2693ba5
 - filename: src/config.schema.ts
