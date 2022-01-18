@@ -1,6 +1,6 @@
 fileignoreconfig:
 - filename: .env.stage.dev
-  checksum: 299bbac266ef0abd2149a42283dcb7a0ff618f4cf6da487aca559556bb739014
+  checksum: 9fbd8632cee8997c721a6845c2bc98e15e287da23b24d96f4cd06d31f116b698
 - filename: package-lock.json
   checksum: 4088981308ad0021ea0baeb75916f8de89cb4617e7509e8681fad7172022d7e1
 - filename: package.json
@@ -16,5 +16,5 @@ fileignoreconfig:
 - filename: src/auth/users.repository.ts
   checksum: 3102761f8a43a2fc73727ee9d8bfc76fff97cbf24a22225977da7433d2693ba5
 - filename: src/config.schema.ts
-  checksum: 3ac15dad9033535173e4477006e665469d6783d939bf49f29e05dddb90ed4594
+  checksum: 8381cafcb3e823b9f25e06f61eee8b2aebd33c20d463ff040629c9c419fb9415
 version: "1.0"
