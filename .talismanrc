@@ -8,7 +8,7 @@ fileignoreconfig:
 - filename: src/app.module.ts
   checksum: a01af65410d647651abee8a0f8b1ff428d5904a90aba7624f9a272b6fff09bfc
 - filename: src/auth/auth.module.ts
-  checksum: d132efac6275bdf2fae24a61705efb824c3f996dfd9a8f5dbe792f8575775616
+  checksum: ccd4f43623b6e005357cfe5f88773ece428de2472ace961a8d29c7fe682ecd5d
 - filename: src/auth/auth.service.ts
   checksum: 1d663461545a07c24c3db7edd4c4bbcb315be14f3e4a7c947dd81898bb066a1f
 - filename: src/auth/jwt.strategy.ts
