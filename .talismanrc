@@ -17,4 +17,6 @@ fileignoreconfig:
   checksum: 3102761f8a43a2fc73727ee9d8bfc76fff97cbf24a22225977da7433d2693ba5
 - filename: src/config.schema.ts
   checksum: 8381cafcb3e823b9f25e06f61eee8b2aebd33c20d463ff040629c9c419fb9415
+- filename: src/tasks/tasks.service.spec.ts
+  checksum: e6c288447aaf26ba85ece69b372d03988e02b4c289062e24f614b82846168c75
 version: "1.0"
